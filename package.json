@@ -22,13 +22,13 @@
     "config": "^3.3.6",
     "inversify": "^6.0.1",
     "reflect-metadata": "^0.1.13",
-    "twit": "^2.2.11"
+    "twit": "^2.2.11",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
   },
   "devDependencies": {
     "@types/config": "^0.0.40",
     "@types/node": "^16.11.6",
-    "@types/twit": "^2.2.30",
-    "ts-node": "^10.4.0",
-    "typescript": "^4.4.4"
+    "@types/twit": "^2.2.30"
   }
 }
