@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://betterprogramming.pub/twitter-auto-retweet-bot-with-node-js-and-typescript-4d6eaf24c0ab?sk=0589195007ced1c90b618eed66f12dc1" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/learn-to-build-a-twitter-auto-retweet-bot-with-node-js-and-typescript" />
 
 # Learn to Build a Twitter Auto-Retweet Bot With Node.js and TypeScript
 ### A Twitter Bot to retweet any tweets with certain keywords or hashtags built with Node.js, TypeScript, DI and IoC.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/875/1*XPnZIUjfg72y_HMx_WTI7Q.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_9e65c685445c4e17bd32d12c12202536~mv2.png/v1/fill/w_828,h_943,al_c,q_90,enc_auto/488a99_9e65c685445c4e17bd32d12c12202536~mv2.png">
 </p>
 
 <br/>
@@ -41,4 +41,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://betterprogramming.pub/twitter-auto-retweet-bot-with-node-js-and-typescript-4d6eaf24c0ab?sk=0589195007ced1c90b618eed66f12dc1
+[Article]: https://www.developmentsimplyput.com/post/learn-to-build-a-twitter-auto-retweet-bot-with-node-js-and-typescript
